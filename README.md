@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicYegon
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML/CSS/PYTHON
+- 👀 I’m interested in web development and software engineering
+- 🌱 I’m currently learning HTML/CSS/JScript/PYTHON
 - Reach me @vicYegon 
 
 <!---
