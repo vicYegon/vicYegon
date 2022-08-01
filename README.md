@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @vicYegon
 - 👀 I’m interested in web development and software engineering
 - 🌱 I’m currently practising 
-WEB DEVELOPMENT
-HTML/CSS
-JScript
-PYTHON
-DJANGO
+WEB DEVELOPMENT and SOFTWARE ENGINEERING 
+- `HTML/CSS`
+- `JScript`
+- `PYTHON`
+- `DJANGO`
 - Reach me @vicYegon 
 
 <!---
