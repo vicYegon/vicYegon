@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vicYegon
-- 👀 I’m interested in web development and software engineering
+- 👀 I’m a software developer
 - 🌱 I’m currently practising 
 WEB DEVELOPMENT and SOFTWARE ENGINEERING 
 - `HTML/CSS`
