@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vicYegon
 - 👀 I’m a software developer
-- 🌱 I’m currently practising 
-WEB DEVELOPMENT and SOFTWARE ENGINEERING 
+- 🌱 I’m currently practising SOFTWARE ENGINEERING 
 - `HTML/CSS`
 - `JScript`
 - `PYTHON`
