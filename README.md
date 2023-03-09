@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vicYegon
 - 👀 I’m a software developer
 - 🌱 I’m currently practising SOFTWARE ENGINEERING 
-- `HTML/CSS`
-- `JScript`
+- `JS`
+- `REACT`
 - `PYTHON`
 - `DJANGO`
 - Reach me @vicYegon 
