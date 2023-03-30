@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vicYegon
-- 👀 I’m a software developer
+- 👋 Hi, I’m Vic Yegon
+- 👀 I’m a software developer & engineer.
 - 🌱 I’m currently practising SOFTWARE ENGINEERING 
 - `JS`
 - `REACT`
