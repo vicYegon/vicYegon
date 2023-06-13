@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Vic Yegon
 - 👀 I’m a software developer & engineer.
-- 🌱 I’m currently practising SOFTWARE ENGINEERING 
+- 🌱 I’m currently practicing SOFTWARE ENGINEERING 
 - `HTML & CSS`
+- JavaScript
 - `REACT`
 - `DJANGO`
 - `.NET`
-- `DB Management`
+- `DB Management
 - Reach me @vicYegon 
 
 <!---
