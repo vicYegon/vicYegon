@@ -2,7 +2,7 @@
 - 👀 I’m a software developer & engineer.
 - 🌱 I’m currently practicing SOFTWARE ENGINEERING 
 - `HTML & CSS`
-- JavaScript
+- `Vanilla JavaScript`
 - `REACT`
 - `DJANGO`
 - `.NET`
