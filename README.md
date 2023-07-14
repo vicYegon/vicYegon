@@ -5,8 +5,9 @@
 - `Vanilla JavaScript`
 - `REACT`
 - `DJANGO`
+- `DJANGO REST FRAMEWORK`
 - `.NET`
-- `DB Management
+- `DATABASE MANAGEMENT`
 - Reach me @vicYegon 
 
 <!---
