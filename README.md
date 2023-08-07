@@ -1,14 +1,6 @@
 # 💫 About Me:
 👋 <b>Hi, I’m Vic Yegon</b><br>👀 <b>I’m a software developer & engineer.</b><br>🌱<b>I’m currently practicing SOFTWARE DEVELOPMENT</b><br>         
-    - HTML & CSS<br>
-    - VANILLA JAVASCRIPT<br>
-    - REACT<br>
-    - DJANGO<br>
-    - DJANGO REST FRAMEWORK<br>
-    - ASP.NET<br>
-    - ASP.NET RAZOR PAGES<br>
-    - DATABASE MANAGEMENT (MYSQL)<br>
-Reach me @vicYegon
+-------------`Reach me @vicYegon`-------------
 
 
 ## 🌐 Socials:
