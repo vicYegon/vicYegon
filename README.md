@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 <b>Hi, I’m Vic Yegon</b><br>👀 <b><i>I’m a software developer & engineer.</i></b><br>🌱<b>I’m currently practicing SOFTWARE TESTING & DEBUGGING</b><br>         
+👋 <b>Hi, I’m Vic Yegon</b><br>👀 <b><i>I’m a software developer & engineer.</i></b><br>🌱<b>        
 -------------`Reach me @vicYegon`-------------
 
 
